@@ -69,5 +69,56 @@ There needs to be some sort of structure which can be responsible for the produc
   * Financial filings
 * Carbon, pollution, local community
 
+#### Further Reading
+* Zebras (fixing things unicorns break) https://medium.com/@sexandstartups/zebras-unite-to-fix-what-unicorns-broke-f1095a2dc55c 
+* Consideration of how public and private sectors work together and where value and control sits (not like the Deepmind stuff http://medicalrepublic.com.au/can-really-trust-big-tech-health-data/10550 ) 
+* Not all corporates are equal either - some are more dominant / troubling https://hbr.org/cover-story/2017/03/corporations-in-the-age-of-inequality 
+
+#### Inclusive Employment, Fair Pay and Conditions
+
+All the workers involved in creating the product, service or system should have fair pay, including paying any local minimum or living wages, and fair conditions without exploitation. Local taxes, healthcare, social security and similar should be provided. 
+
+Workplaces should be inclusive, welcoming different gender, age, ethnicity, etc. 
+
+Executive remuneration should not be unreasonable compared to the lowest compensated team members.  
+
+These conditions should apply not just to those directly creating or operating a digital service, but also any people whom work is outsourced to, and as far as possible also other subcontractors, hosting providers and so on.
+
+Considerations might include how shifts are organised; how promotions and bonuses are awarded and transparency around this. 
+
+Democratic engagement of workers with organisational processes might be a plus if they are interested in that structure; but we perhaps shouldn’t assume this is always desirable.
+
+The balance between shared reward and shared risk should be considered - increased rights might come with increased responsibilities. 
+
+*Fairness and decent treatment is important here; the Zappos example of low CEO salary is cute, but a low CEO salary isn’t necessarily something to aspire to; this doesn’t mean everyone has to be an employee on payroll.*  
+
+#### Additional considerations 
+* Living wage foundation; GoodCorporation; Positive about Disabled People; Investors in People; 
+* Diversity reporting
+* Is union membership OK? 
+* Is flexible work appropriate or permitted? 
+* Supply chain - what sorts of suppliers, outsourcers, contractors do you use? How do they treat their workforce? Do you      ensure you don’t outsource to exploited labour?
+* CEO: employee salary ratio
+* Pay statistics
+* Policies - sickness, family, grievance, diversity
+* Contracts - are there any unusual clauses, perhaps around IP, noncompete agreements?  How do your workforce feel about them? 
+* Wages and pay rates, comparisons with sector 
+* Novel form of employee IP ownership https://qz.com/937038/github-now-lets-its-workers-keep-the-ip-when-they-use-company-resources-for-personal-projects/ 
+* Diversity as a competency https://www.theengineroom.org/diversity-is-a-competency/ 
+* Monzo’s inclusion report https://monzo.com/blog/2017/03/09/diversity-and-inclusion/
+* Operational salary transparency http://firstround.com/review/how-chewse-operationalized-transparency-starting-with-salaries/
+* Project include http://projectinclude.org/
+* Taylor report on gig economy workers https://www.theguardian.com/commentisfree/2017/jul/20/review-gig-economy-gradual-change-quick-fixes-workers-unions
+* Visualisations of how hard it is to be diverse http://ncase.me//polygons/ 
+* Worker surveillance - https://www.theguardian.com/world/2016/dec/08/revealedrio-tinto-surveillance-station-plans-to-use-drones-to-monitors-staffs-private-lives
+* Salary ratios https://www.thersa.org/discover/publications-and-articles/rsa-blogs/2016/11/mission-or-money--what-motivates-your-leader
+* Bruising conditions at amazon https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html
+* Why diverse teams are smarter https://hbr.org/2016/11/why-diverse-teams-are-smarter 
+* Supply chain complexity leads to modern slavery https://innovation-forum.co.uk//analysis.php?s=supply-chain-complexity-leads-to-modern-slavery 
+* Gender pay gap research https://www.theguardian.com/society/2016/sep/24/gender-pay-gap-wont-close-until-2069-says-deloitte
+* Diversity debt https://500.co/diversity-debt-how-much-does-your-startup-have/
+* Treating different roles with respect and not over valorising developers https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
+* Worker experiences in on demand economy - how Uber's robot management creates bad working conditionspapers.ssrn.com/sol3/papers.cfm?abstract_id=2686227
+
 
 
