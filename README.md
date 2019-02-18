@@ -44,3 +44,30 @@ There needs to be some sort of structure which can be responsible for the produc
 * Commons business models https://www.theverge.com/2017/7/27/16019222/open-source-data-ai-mozilla-common-voice-project
 * R100 list https://docs.google.com/spreadsheets/d/1z8NNnc_eRc_FlfciHPWSFqY0odcpWqAsS3oIrwfMrGE/edit#gid=0 
 * https://www.slideshare.net/chris.d.adams/djangocon-europe-2017-planet-friendly-django (especially slide 10 onwards!) which     includes a new framework for thinking about the environmental impact of tech 
+
+#### Resources of Best Practice
+* B Corp Certification: http://bcorporation.uk/
+* Responsible 100: https://www.responsible100.com/
+* Blueprint for Business: http://www.blueprintforbusiness.org/ 
+
+#### Additional considerations 
+* Shareholder structure
+* Voting control
+* How do you make money? What’s the business model?
+  * Any tensions or concerns with your business model?
+  * Have you tried other models?
+  * Why was your model chosen?
+* Model of ownership / control 
+  * Any tensions or concerns with how your organisation is owned and controlled?
+  * Have you tried other models?
+  * Why was your model chosen?
+* Beneficial ownership. Who benefits if you do well, grow or make profits?
+* Capital  - IP, other assets, valuation. What and where is it?
+* Leadership and management team structure and how the org makes decisions
+* Is info about company ownership and management publicly available?
+  * Governance documents
+  * Financial filings
+* Carbon, pollution, local community
+
+
+
