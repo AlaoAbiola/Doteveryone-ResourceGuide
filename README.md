@@ -194,4 +194,33 @@ The idea of a single user journey focused on a consumer interacting with a produ
 * Light relief - apple terms and conditions as a comic https://www.indy100.com/article/youve-finally-got-no-excuse-for-avoiding-reading-apples-terms-and-conditions-7563656
 * https://motherboard.vice.com/en_us/article/evpz7a/turn-off-wi-fi-and-bluetooth-apple-ios-11  ios11 settings don’t do what you think
 
+### Consequences
+**Being aware of and looking at mitigating the potential ways technology can have unintended consequences.**
+
+*Responsible technology needs to consider the potential unintended consequences which can arise beyond the specific intended purpose of a product or service. Companies must learn how to anticipate what those consequences might be and every contributor to a tech product needs to participate in identifying them. This proactive approach mitigates the risk of products having a toxic side effect,which had not been foreseen. However, it is important to note that consequences are not always negative-in that, there are unexpected benefits as well as drawbacks.*
+
+#### Useful references 
+
+* Tool for AI or data-trained algo risk checking - https://medium.com/microsoft-design/how-to-recognize-exclusion-in-ai-ec2d6d89f850
+* Have external experts checked the ethics?  (unlike facebook’s news feed emotion study http://www.pnas.org/content/111/24/8788.full )
+* Various security and risk frameworks listed in Camouflage or Monsters (thinking about malice and misfortune) https://www.cl.cam.ac.uk/~rja14/Presentations/camouflage-or-monsters-2017.pptx
+* https://www.fastcodesign.com/3066631/software-is-politics a range of design practices
+* Think about diferent user groups too - privacy settings are a feminist issue https://qz.com/1042852/using-a-fitness-app-taught-me-the-scary-truth-about-why-privacy-settings-are-a-feminist-issue/ 
+* Internal practices matter too - eg who has access to customer information  https://www.ftc.gov/news-events/press-releases/2017/08/uber-settles-ftc-allegations-it-made-deceptive-privacy-data
+* The power of default options https://www.fastcompany.com/40403706/the-subtle-power-of-default-choices
+* Timewellspent.io   avoiding addictive setups 
+* http://interconnected.org/home/2017/10/31/security_and_privacy thoughts on security and privacy, and how they fit with the realities of startups building connected products
+* Changes to APIs that ruin accessibility https://9to5mac.com/2018/04/06/twitter-api-breaking-tweetbot-twitterrific-features/ 
+
+#### Additional considerations 
+* Cheap smartphones leave poor vulnerable http://www.slate.com//articles//technology//future_tense//2017//04//cheap_smartphones_leave_the_poor_vulnerable_to_fraud_and_harassment.html
+* Amusing examples of supply chain fraud - even blockchains cannot always help! http://www.chyp.com/the-blockchains-salad-days/ 
+* Unexpected hacks and gaming the system
+  * Accelerometers hacked with sound waves https://www.bleepingcomputer.com/news/hardware/researchers-hack-accelerometers-with-sound-waves/
+  * Malicious AV attacks https://www.technologyreview.com/s/608618/hackers-are-the-real-obstacle-for-self-driving-vehicles/
+  * Gaming surge pricing http://www.telegraph.co.uk/technology/2017/08/02/uber-drivers-gang-cause-surge-pricing-research-says/ 
+  * How systems can encourage people to lie https://www.computerworld.com/article/3190046/data-privacy/honesty-is-not-the-best-privacy-policy.html
+* Gendered security issues https://motherboard.vice.com/en_us/article/9kaxge/how-to-use-signal-without-giving-out-your-phone-number-a-gendered-security-issue
+* Think about how families work - unlike this google example:
+
 
