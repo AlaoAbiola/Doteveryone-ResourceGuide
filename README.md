@@ -120,5 +120,78 @@ The balance between shared reward and shared risk should be considered - increas
 * Treating different roles with respect and not over valorising developers https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
 * Worker experiences in on demand economy - how Uber's robot management creates bad working conditionspapers.ssrn.com/sol3/papers.cfm?abstract_id=2686227
 
+### Context 
+
+**Looking beyond the individual user and taking into account the wider world a technology product or service exists within.**
+
+The idea of a single user journey focused on a consumer interacting with a product in isolation needs to evolve. In practice, we all experience technology in different ways in different aspects of our lives and we need to incorporate this understanding into the design of products. Doteveryone’s Digital Understanding model shows how we relate differently to technologies as individuals, as consumers, as members of society and as workers. Responsible technology will need to consider each of these four contexts, the different needs they generate and the different ways people will interact with their technology in these contexts. But they also need to accept these four contexts can overlap and simultaneously co-exist.
+
+#### Useful references
+* Iceberg canvas for assessing hidden impact https://medium.com/@willwai/the-iceberg-canvas-9f90d50de656 
+* Check our ethical tech directory for some specific domain examples of ethics standards and practices (and please add more,   and help by tagging what’s there! Still a work in progress) https://drive.google.com/open?id=1SN6hYeKe3eRK6x9D0Sr7GpCA4nirpyo3u68xG1A6NDs 
+
+#### Additional considerations 
+* Using thought experiments to explore possible futures at a meaningful level (self driving car example - more than the trolley problem!) https://www.forbes.com/sites/patricklin/2017/04/03/robot-cars-and-fake-ethical-dilemmas/#62b245313a26
+* Designing for accountability and power http://blog.memespring.co.uk/2016/11/23/oscon-2016/ 
+* Social side effects of surveillance https://www.socialcooling.com/
+* Can you get sued for bad code? http://www.eejournal.com/article/20161116-liability/ 
+* Security threats via phone screen repair https://arstechnica.com/information-technology/2017/08/a-repair-shop-could- completely-hack-your-phone-and-you-wouldnt-know-it/
+* What do you do when the government comes asking for customer info? https://www.eff.org/who-has-your-back-2017
+* A tale of why you need human options in computer systems https://www.theguardian.com/us-news/2017/apr/03/identity-theft- racial-justice 
+* Pros and cons of decisions, eg EU Right to Roam - good for mobile bills today, bad in other ways https://disruptiveviews.com/13-things-eu-didnt-tell-roam/
+* Unexpected consequences of self driving cars http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/ 
+* Good example - audi offering level 3 autonomy and also taking liability for accidents if it's used correctly http://www.caradvice.com.au/582380/audi-to-take-full-responsibility-in-event-of-autonomous-vehicle-crash/
+* https://www.planetfriendlyweb.org 
+
+#### Further Reading
+* Startups vs companies and breaking the law https://hbr.org/2017/06/why-you-cant-just-tell-a-company-be-more-like-a-startup
+* Is facebook a structural threat to a free society? http://www.truthhawk.com/is-facebook-a-structural-threat-to-free-society/
+* Tech giants and civic power https://www.kcl.ac.uk//sspp//policy-institute//CMCP//Tech-Giants-and-Civic-Power.pdf 
+* Uber vs black cabs http://www.cityam.com/260416/londons-black-cab-industry-needs-regulatory-overhaul
+* Social chilling effects of google https://www.theguardian.com/commentisfree/2017/jun/18/google-not-gchq--truly-chilling-spy-network
+* The human toll of online moderation https://www.newyorker.com/tech/elements/the-human-toll-of-protecting-the-internet-from-the-worst-of-humanity 
+* MOJ GPS tracker trial - had unexpected outcomes https://blog.ouseful.info/2016/10/31/uk-ministry-of-justice-gps-tagging-trial/ 
+* IOT liability discussion https://medium.com/privacy-international/time-to-decide-on-internet-of-things-liability-c39cee0142ff
+* Complexity of procurement, data, public and private sectors etc - police body cams http://www.slate.com/blogs/future_tense/2017/04/05/taser_international_now_axon_offers_police_free_body_cameras.html 
+* how much access do you have to your tesla’s data, if you end up in court? do tesla check with you before sharing that data with the courts? https://www.theguardian.com/technology/2017/apr/03/the-customer-is-always-wrong-tesla-lets-out-self-driving-car-data-when-it-suits
+* Young people making their own ways to share news to work around the unreliability of social media sites, where people see different content http://kf-site-production.s3.amazonaws.com/publications/pdfs/000/000/230/original/Youth_News.pdf 
+* Who cleans self owning cars? https://internetofpeople.eu/who-cleans-self-owning-cars/
+* Google streetview cars collecting wifi info on the side https://www.wired.com/2012/05/google-wifi-fcc-investigation/
+
+### Contribution
+
+**Sharing how value is created in a transparent and understandable way.** *Determining all of the ways and parties that value - which could mean information or formal or informal labour - is contributed to a technology product. It’s about then sharing these value flows, those involved in them, and what is being exchanged publicly and in a way that people are able to easily understand.*
+
+*Information could include datasets, open source code, what people enter into forms or photos they upload, sensor data, and so on, from individuals, projects, organisations or the public domain (such as Wikipedia, or open data from government). Labour encompasses the formal effort contributed by teams, partners, consultants and contractors, including micro-labour (such as Mechanical Turkers or content checkers). Labour also encompasses informal contributions such as community moderators, users completing captchas, etc.*
+
+#### Useful references
+* Idea to surface who has helped on a website http://humanstxt.org/
+* Licenses to support the commons https://medium.com/@fabianhjr/libre-software-isnt-radical-draft-rfc-642ff84ad516
+* New models of supporting software infrastructure like sponsorship http://redmonk.com/jgovernor/2017/07/25/the-new-patreon-economy/
+* Data collection, consumer loyalty etc https://simplysecure.org/blog/loyalty
+* Mechanical Turkers training AIs, and AI value https://www.thenews.coop/114945/topic/technology/amazon-mechanical-turk-workers-artificial-intelligence-technology/
+* How something like Google Snippets can destroy a business https://theoutline.com/post/1399/how-google-ate-celebritynetworth-com
+* Contribute your voice to an open source recognition engine https://voice.mozilla.org/
+* How AI can unlock value beyond the individual data value - particularly important to think about this for public data sets where the value may be captured and realised in the private sector https://techcrunch.com/2016/07/09/we-need-to-talk-about-ai-and-access-to-publicly-funded-data-sets/
+* Ideas for how data could be handled more responsibly https://www.theatlantic.com/technology/archive/2016/10/information-fiduciary/502346/ 
+* City data, private deals - an Uber example https://thebaffler.com/latest/when-uber-bares-hoard 
+* Nice example of communicating http://www.channel4.com/4viewers/viewer-promise 
+* Publish things like error rates of your algorithms - so people know how safe your edible fungi identification app is! https://twitter.com/mathbabedotorg/status/889460244706930689 
+* Good example - signage for users and data discarded not horded https://www.handelsblatt.com/my/politik/deutschland/datenschuetzer-zu-real-werbebildschirm-gesichtsscan-im-supermarkt-ist-unbedenklich/19921456.html?ticket=ST-1574175-GYh533ruGsuRcQU25Zab-ap2 
+* The ODI Data Ethics Canvas https://theodi.org/article/data-ethics-canvas/ 
+* Vulnerabilities paper: "Taking Stock: Estimating Vulnerability Rediscovery," by Trey Herr, Bruce Schneier, and Christopher Morris
+* Security best practice resource: https://www.schneier.com/academic/ 
+
+#### Additional considerations
+* Don’t secretly track things https://www.theguardian.com/world/2015/dec/25/hyde-park-visitors-tracked-mobile-phone-data-ee or hide why you do stuff https://twitter.com/glynwintle/status/908591485280571392
+* Sending data before a form is submitted is also bad https://gizmodo.com/before-you-hit-submit-this-company-has-already-logge-1795906081
+* Transparency challenges in safety reporting http://thehill.com//blogs//pundits-blog//technology//318184-self-driving-cars-should-disengage-from-public-reporting 
+* Limits of the transparency ideal (especially around algorithms) http://journals.sagepub.com/doi/full/10.1177/1461444816676645 
+* Design for emotion as well as need. And think about the balance between transparency and UX https://medium.com/@joshuamouldey/the-role-of-truth-in-designing-interfaces-to-public-services-914426c3426e 
+
+#### Further Reading
+* Headphones that spy on you http://www.theregister.co.uk//2017//04//20//bose_sued_privacy
+* Light relief - apple terms and conditions as a comic https://www.indy100.com/article/youve-finally-got-no-excuse-for-avoiding-reading-apples-terms-and-conditions-7563656
+* https://motherboard.vice.com/en_us/article/evpz7a/turn-off-wi-fi-and-bluetooth-apple-ios-11  ios11 settings don’t do what you think
 
 
